@@ -11,6 +11,7 @@
                 <element inactive_on_update="false" label="Internal IT" sequence="3" value="dspu"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Country code" max_length="40" name="u_user_country_code" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal1" label="What needed" mandatory="true" max_length="40" name="u_what_needed" type="string">
             <choice>
                 <element inactive_on_update="false" label="Legal 1" sequence="0" value="legal1"/>
@@ -24,6 +25,6 @@
                 <element inactive_on_update="false" label="Other" sequence="8" value="other"/>
             </choice>
         </element>
-        <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date"/>
     </element>
 </database>

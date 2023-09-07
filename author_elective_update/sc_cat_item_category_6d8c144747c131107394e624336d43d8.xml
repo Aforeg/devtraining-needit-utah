@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Add new Need IT record">43fb140747c131107394e624336d43a1</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 11:05:43</sys_created_on>
+        <sys_id>6d8c144747c131107394e624336d43d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.Add new Need IT record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_category_6d8c144747c131107394e624336d43d8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-07 11:18:45</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>46ee71ccdbbded9c387021c40596195b</instance_id>
+        <instance_name>dev166564</instance_name>
+        <name>sc_cat_item_category_6d8c144747c131107394e624336d43d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Add new Need IT record">43fb140747c131107394e624336d43a1</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-07 11:05:43</sys_created_on><sys_id>6d8c144747c131107394e624336d43d8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Can We Help You?.Add new Need IT record</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_category_6d8c144747c131107394e624336d43d8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-09-07 11:18:45</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-543081887</payload_hash>
+        <record_name>Can We Help You?.Add new Need IT record</record_name>
+        <reverted_from/>
+        <source>a9c4b88f470531107394e624336d439d</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-07 12:51:41</sys_created_on>
+        <sys_id>b5c4f88f470531107394e624336d437e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a6fb2c3ef0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-07 12:51:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f1c4f88f8d053110c3c108a20c513a71</update_guid>
+        <update_guid_history>f1c4f88f8d053110c3c108a20c513a71:-543081887,288f5c0b42c131106f047c666242476d:1352960749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Add new Need IT record">f1c4f88f470531107394e624336d4382</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-07 12:51:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>d212450557e54feea5bad638be517bd1</sys_id>
+        <sys_metadata>6d8c144747c131107394e624336d43d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Add new Need IT record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_6d8c144747c131107394e624336d43d8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_6d8c144747c131107394e624336d43d8">b5c4f88f470531107394e624336d437e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-07 12:51:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

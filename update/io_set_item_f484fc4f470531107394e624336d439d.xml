@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <sc_cat_item display_value="Add new Need IT record">43fb140747c131107394e624336d43a1</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 12:50:31</sys_created_on>
+        <sys_id>f484fc4f470531107394e624336d439d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Involved IP addresses.Add new Need IT record</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>io_set_item_f484fc4f470531107394e624336d439d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-07 12:51:41</sys_updated_on>
+        <variable_set display_value="Involved IP addresses">081b2807470531107394e624336d43fc</variable_set>
+    </io_set_item>
+</record_update>
